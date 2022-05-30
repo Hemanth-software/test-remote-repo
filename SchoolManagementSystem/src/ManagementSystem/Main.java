@@ -7,8 +7,6 @@ public class Main {
 
 	public static void main(String[] args) {
 
-
-		
 		Teacher hemanth = new Teacher(1,"Hemanth",20000);
 		Teacher Sindhu = new Teacher(1,"Sindhu",10000);
 		Teacher Usha = new Teacher(1,"Usha",5000);
